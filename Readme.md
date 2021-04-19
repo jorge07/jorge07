@@ -29,8 +29,11 @@ You can support me via going outside to visit your grandma. Seriously, go visit 
 - **[I share things here](https://jorgearco.com)**
 
 ## Stats
+<div style="max-width:50%;">
+<img src="https://github-readme-stats.vercel.app/api?username=jorge07&include_all_commits=true&show_icons=true&count_private=true&bg_color=fff&text_color=000" alt="Jorge07 Stats" />
+</div>
+<div style="max-width:50%;">
+<img style="max-width:50%;"src="https://github-readme-streak-stats.herokuapp.com/?user=jorge07">
+</div>
 
-<p>
-   <img style="max-width:50%;" src="https://github-readme-stats.vercel.app/api?username=jorge07&include_all_commits=true&show_icons=true&count_private=true&bg_color=fff&text_color=000" alt="Jorge07 Stats" />
-   <img style="max-width:50%;"src="https://github-readme-streak-stats.herokuapp.com/?user=jorge07">
-<p/>
+
