@@ -1,14 +1,14 @@
 ## Hey, I'm Jorge
 
 
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=jorge07&theme=flat&no-frame=true&margin-h=15" />
-</p>
-
-
 I'm professionaly doing sys/dev since 2011. I occasionally speak in public. <br />
 I've been switching languages many times, JS, TS, Go, Python, PHP... Ended focusing in DDD, CQRS and eventually ES. <br />
 I've built, managed and contribute to Docker and Kubernetes since 2015-2016. <br />
+
+
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=jorge07&theme=flat&no-frame=true&margin-h=15" />
+</p>
 
 
 ## Links
