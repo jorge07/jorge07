@@ -1,10 +1,11 @@
 ## Hey, I'm Jorge
 
 
-I'm professionaly doing sys/dev since 2011. I occasionally speak in public. <br />
-I've been switching languages many times, JS, TS, Go, Python, PHP... Ended focusing in DDD, CQRS and eventually ES. <br />
-I've built, managed and contribute to Docker and Kubernetes since 2015-2016. <br />
+I'm professionaly doing sys/dev since 2011. Occasional speaker. <br />
+Focusing on Observability, DDD, CQRS and eventually ES. <br />
+I've built, managed and contribute to Docker and Kubernetes ecosystem since 2015. <br />
 
+Observability centric. 
 
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=jorge07&theme=flat&no-frame=true&margin-h=15" />
