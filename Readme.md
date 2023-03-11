@@ -9,7 +9,7 @@ Observability centric.
 
 ## Links
 
- - **[Symfony 5 DDD boilerplate](https://github.com/jorge07/symfony-6-es-cqrs-boilerplate)  — Symfony 5 DDD CQRS ES**
+ - **[Symfony 6 DDD boilerplate](https://github.com/jorge07/symfony-6-es-cqrs-boilerplate)  — Symfony 6 DDD CQRS ES**
  - **[Kube-AWS](https://github.com/kubernetes-retired/kube-aws) —  {Archived} Kubernetes provisioning on EC2**
  - **[Hollywood-js](https://github.com/jorge07/hollywood) - TS Modular DDD framework focus on CQRS and clean architecture**
  - **[Alpine PHP](https://github.com/jorge07/alpine-php) - From 5.6 to 8.1 PHP on alpine Docker images**
