@@ -1,8 +1,10 @@
 I do things, I break things.
 
+Builing https://wombatnest.com
+
 ![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jorge07&theme=tokyonight)
 
-I live inside Grafana. 
+I use to live inside Grafana. Today I just do LLMs glue.
 I've built, managed and contribute to Docker and Kubernetes ecosystem since 2015.
 
 Observability centric. 
