@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 34 720 140" width="720" height="140" role="img" aria-label="Arco">
+  <defs>
+    <style>
+      .wm    { font: 700 80px 'Poppins','Segoe UI',system-ui,-apple-system,sans-serif; letter-spacing: 8px; fill: #8b949e; }
+      .mark  { stroke: #8b949e; fill: none; stroke-width: 1.5; opacity: .5; }
+      .motif { stroke: #8b949e; fill: none; stroke-width: 1; opacity: .1; }
+      .fade  { opacity: 0; animation: fade 1.1s ease .3s forwards; }
+      @keyframes fade { to { opacity: 1; } }
+      @media (prefers-color-scheme: dark) {
+        .wm { fill: #c9d1d9; } .mark { stroke: #c9d1d9; } .motif { stroke: #c9d1d9; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .fade { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- single faint diamond, centred behind the wordmark -->
+  <polygon class="motif" points="360,52 432,101 360,150 288,101" />
+
+  <!-- corner registration marks (frame x:150..570, y:44..158) -->
+  <g class="mark fade">
+    <path d="M150 56 V44 H162" />
+    <path d="M558 44 H570 V56" />
+    <path d="M150 146 V158 H162" />
+    <path d="M570 146 V158 H558" />
+  </g>
+
+  <!-- wordmark, centred (x nudged +5 to offset trailing letter-spacing) -->
+  <text class="wm fade" x="365" y="128" text-anchor="middle">Arco</text>
+</svg>
